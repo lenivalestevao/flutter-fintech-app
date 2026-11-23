@@ -1,5 +1,9 @@
 # 💳 Flutter Fintech Wallet
 
+<p align="center"><img src="docs/preview.svg" alt="App preview" width="100%"></p>
+
+<sub>Preview: design illustration of the screens, in the light theme. Run the app to see the real thing.</sub>
+
 A free Flutter template for a modern digital wallet: balance, quick actions, activity feed with search and filters, cards you can freeze, spending insights with charts, and a send-money flow with a custom keypad. Material 3, light and dark themes, **no third-party packages**.
 
 ## Features
